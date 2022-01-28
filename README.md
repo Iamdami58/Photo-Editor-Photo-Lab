@@ -1,2 +1,2 @@
-# Photo-Editor-Photo-Lab
+# Photo-Lab
 Created with CodeSandbox
